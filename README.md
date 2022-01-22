@@ -1,14 +1,10 @@
 ## Hi, nice to meet you 👋
 
----
-
 Welcome to my page!
 
 I'm Henry, frontend engineer based in Taipei, Taiwan 🇹🇼.
 
 ## Things I Code width
-
----
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?&logo=react&logoColor=white" />
@@ -31,12 +27,8 @@ I'm Henry, frontend engineer based in Taipei, Taiwan 🇹🇼.
 
 ## Weekly Development Breakdown
 
----
-
 <img src="https://wakatime.com/share/@b0955cac-5dc5-4442-bb7a-c7bac541d6c8/8ef023a8-9574-494a-9046-3508de07b800.svg" width="50%" />
 
 ## Contribution Stats
-
----
 
 <img align="left" src="https://github-contribution-stats.vercel.app/api/?username=HenryMHH" width="50%" />
