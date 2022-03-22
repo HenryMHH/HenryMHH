@@ -2,7 +2,7 @@
 
 Welcome to my page!
 
-I'm Henry, frontend engineer based in Taipei, Taiwan 🇹🇼.
+I'm Henry, frontend engineer based in Taipei, Taiwan 🇹🇼. 
 
 ## Things I Code width
 
@@ -25,7 +25,8 @@ I'm Henry, frontend engineer based in Taipei, Taiwan 🇹🇼.
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-white?logo=php" /> 
 </p>
 
-<!-- ## Weekly Development Breakdown -->
+## Porfolio
+https://henrymhh.github.io/myResume/build/
 
 <!-- <img src="https://wakatime.com/share/@b0955cac-5dc5-4442-bb7a-c7bac541d6c8/8ef023a8-9574-494a-9046-3508de07b800.svg" width="50%" /> -->
 
