@@ -4,7 +4,7 @@ Welcome to my page!
 
 I'm Henry, frontend engineer based in Taipei, Taiwan 🇹🇼. 
 
-## Things I Code width
+## Things I Code with
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?&logo=react&logoColor=white" />
