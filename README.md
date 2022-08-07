@@ -25,8 +25,8 @@ I'm Henry, frontend engineer based in Taipei, Taiwan 🇹🇼.
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-white?logo=php" /> 
 </p>
 
-## Porfolio
-https://henrymhh.github.io/myResume/build/
+## resume
+[CakeResume](https://www.cakeresume.com/henry60412) 
 
 <!-- <img src="https://wakatime.com/share/@b0955cac-5dc5-4442-bb7a-c7bac541d6c8/8ef023a8-9574-494a-9046-3508de07b800.svg" width="50%" /> -->
 
