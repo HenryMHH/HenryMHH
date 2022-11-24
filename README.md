@@ -4,12 +4,6 @@ Welcome to my page!
 
 I'm Henry, frontend engineer based in Taipei, Taiwan 🇹🇼. 
 
-Currently, I'm searching for any programming outsourcing or part-time jobs, such as building CMS, dashboards, landing-pages or e-commerce websites.
-
-If you have any questions, please feel free to contact me through the following email address.
-
-E-mail: minghang.h@gmail.com
-
 ## Things I Code with
 
 <p>
