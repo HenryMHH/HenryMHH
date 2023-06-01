@@ -4,12 +4,12 @@ Welcome to my page!
 
 I'm Henry, frontend engineer based in Taipei, Taiwan 🇹🇼. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryMHH&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryMHH&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryMHH&show_icons=true) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryMHH&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Things I Code with
 
-<p>
+<!-- <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?&logo=webpack&logoColor=white" /> 
   <img alt="Liquid" src="https://img.shields.io/badge/-Liquid-white?logo=shopify" /> 
@@ -29,7 +29,7 @@ I'm Henry, frontend engineer based in Taipei, Taiwan 🇹🇼.
 </p>
 
 ## My Resume
-[CakeResume](https://www.cakeresume.com/henry60412) 
+[CakeResume](https://www.cakeresume.com/henry60412)  -->
 
 <!-- <img src="https://wakatime.com/share/@b0955cac-5dc5-4442-bb7a-c7bac541d6c8/8ef023a8-9574-494a-9046-3508de07b800.svg" width="50%" /> -->
 
