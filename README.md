@@ -1,4 +1,6 @@
-<img src="https://github.com/HenryMHH/HenryMHH/blob/main/meme2.png?raw=true" width="50%" />
+<p align="center">
+  <img src="https://github.com/HenryMHH/HenryMHH/blob/main/meme2.png?raw=true" width="50%"  />
+</p>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryMHH&show_icons=true) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryMHH&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
