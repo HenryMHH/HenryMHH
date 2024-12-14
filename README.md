@@ -1,8 +1,3 @@
-## Hi, nice to meet you 👋
-
-Welcome to my page!
-
-I'm Henry, frontend engineer based in Taipei, Taiwan 🇹🇼. 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryMHH&show_icons=true) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryMHH&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
