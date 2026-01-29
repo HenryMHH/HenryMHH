@@ -34,5 +34,5 @@
 
 <!-- <img align="left" src="https://github-contribution-stats.vercel.app/api/?username=HenryMHH" width="50%" /> -->
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=henry60412&theme=dark)](https://github.com/henry60412/leetcode-stats)
+![LeetCode Stats](https://leetcard.jacoblin.cool/HenryMHH?theme=dark&font=Inter)
 
