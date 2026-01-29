@@ -34,7 +34,7 @@
 
 <!-- <img align="left" src="https://github-contribution-stats.vercel.app/api/?username=HenryMHH" width="50%" /> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://leetcard.jacoblin.cool/HenryMHH?theme=dark&font=Inter" />
-</p>
+</p> -->
 
